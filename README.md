@@ -1,5 +1,6 @@
 <p align="center">
-  <img alt="Coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+ <img alt="Coding" width="400px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="display: block; margin: auto;">
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Yu-Wen!</h1>
