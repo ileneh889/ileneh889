@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ilene Y.W. Huang! 
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />#ms314006
 I'm looking for a position as a front-end Developer. 
 My personal secret is >> [yahoo](https://www.yahoo.com). 
 I live in Taiwan now but would love to work in other countries😸.
