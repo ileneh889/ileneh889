@@ -11,7 +11,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-
+### 📚 Langues and Frameworks
+- HTML5
+- CSS3, SCSS, SASS
+- Material-ui, Antd, Bootstrap
+- JavaScript, TypeScript
+- React, Redux, Redux-Saga React-Router, Next.js
+- Vue, Vuex, Vue-Router
+- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
 <!--
 **ileneh889/ileneh889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
