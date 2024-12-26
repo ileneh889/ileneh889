@@ -32,8 +32,10 @@
 
 - <h3>🛠️ Other Tools:</h3>
 
-| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/) | [<img src="https://user-images.githubusercontent.com/58083159/158461958-394d5b81-72e1-4cae-8c1e-53f355451030.png" alt="npm" width="60">](https://www.npmjs.com/) | [<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker" width="60">](https://www.docker.com/) | [<img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="60" height="60">](https://www.photoshop.com/en) | [<img src="https://brandlogos.net/wp-content/uploads/2022/05/figma-logo_brandlogos.net_6n1pb-512x512.png" alt="photoshop" width="60" height="60">](https://www.figma.com/)
-|---|---|---|---|---|
+| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/) | [<img src="https://user-images.githubusercontent.com/58083159/158461958-394d5b81-72e1-4cae-8c1e-53f355451030.png" alt="npm" width="60">](https://www.npmjs.com/) | [<img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="60" height="60">](https://www.photoshop.com/en) | [<img src="https://brandlogos.net/wp-content/uploads/2022/05/figma-logo_brandlogos.net_6n1pb-512x512.png" alt="photoshop" width="60" height="60">](https://www.figma.com/)
+|---|---|---|---|
+
+<!--[<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker" width="60">](https://www.docker.com/) -->
 
 <!--
 ## 📊 Stats:
