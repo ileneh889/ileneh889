@@ -17,8 +17,8 @@
 
 - <h3>👀 Frontend:</h3>
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60">](https://www.w3.org/html/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">](https://www.w3schools.com/css/) | [<img src="https://user-images.githubusercontent.com/58083159/154823721-b99c9ecf-9dc2-4f21-a95f-a0ba2ee994f2.png" alt="react" width="60">](https://reactjs.org/) | [<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="60">](https://nextjs.org/)  | [<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="60">](https://sass-lang.com/) | [<img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo-512x512.png" alt="bootstrap" width="60">](https://getbootstrap.com/) 
-|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60">](https://www.w3.org/html/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">](https://www.w3schools.com/css/) | [<img src="https://user-images.githubusercontent.com/58083159/154823721-b99c9ecf-9dc2-4f21-a95f-a0ba2ee994f2.png" alt="react" width="60">](https://reactjs.org/) | [<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="60">](https://nextjs.org/) | [<img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo-512x512.png" alt="bootstrap" width="60">](https://getbootstrap.com/) 
+|---|---|---|---|---|
 
 - <h3>⚙️ Backend:</h3>
 
