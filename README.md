@@ -2,7 +2,7 @@
 
 - :raising_hand_woman: I'm a passionate front-end developer and much interested in diving into back-end techniques! 
 - 🎓 I graduated from the Department of Arts and Design at [National Taipei University of Education](https://s12.ntue.edu.tw/).
-- :earth_asia: Checkout my [Portfolio](https://) to find out more about me and my projects.
+<!-- - :earth_asia: Checkout my [Portfolio](https://) to find out more about me and my projects.-->
 - :rocket: Reach me on [LinkedIn](https://www.linkedin.com/in/yu-wen-huang-291080291) or [E-Mail](mailto:ileneh8899@gmail.com).
 - 🗃️ Currently learning React, Vue, Laravel, MySQL and more!
 
