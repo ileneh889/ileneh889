@@ -1,7 +1,7 @@
 <h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> I'm Ilene </h1>
 
 - 🌱 I'm a passionate front-end developer and much interested in diving into back-end techniques! 
-- ❤️ Find out more about me ➡️ [Portfolio](https://ileneh889.github.io/portfolio/)
+- ❤️ Find out more about me ➡️ [Portfolio](https://ilene-huang.vercel.app/)
 - 📧 Reach me via ➡️ [LinkedIn](https://www.linkedin.com/in/yu-wen-huang-291080291) or [E-Mail](mailto:ileneh8899@gmail.com)
 <!--- 🗃️ Currently learning React, Node.JS, MySQL and more!
 - 🎓 I graduated from the Department of Arts and Design at [National Taipei University of Education](https://s12.ntue.edu.tw/).
